@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Folders
+XY_train/
+XY_val/
+
 # C extensions
 *.so
 
