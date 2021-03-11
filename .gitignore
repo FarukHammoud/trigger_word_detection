@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # Folders
-XY_train/
-XY_val/
+#XY_train/
+#XY_val/
 
 # C extensions
 *.so
